@@ -53,8 +53,6 @@ Phonopy will output the force constants needed for phonon calculations.
 
 ### Step 4: Dielectric and Born Effective Charges (for LO-TO splitting)
 
-To calculate phonons with LO-TO splitting:
-
 1. Prepare a separate dielectric calculation with VASP using the following INCAR:
 
 ```ini
